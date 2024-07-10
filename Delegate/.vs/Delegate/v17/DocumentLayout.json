@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\solomon.sefiw\\Desktop\\Git\\Portal\\TrainingAdvC-\\Delegate\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07678894-8FA7-4EB5-AF6B-4ABD6B20340F}|Delegate\\Delegate.csproj|c:\\users\\solomon.sefiw\\desktop\\git\\portal\\trainingadvc-\\delegate\\delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07678894-8FA7-4EB5-AF6B-4ABD6B20340F}|Delegate\\Delegate.csproj|solutionrelative:delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\solomon.sefiw\\Desktop\\Git\\Portal\\TrainingAdvC-\\Delegate\\Delegate\\Program.cs",
+              "RelativeDocumentMoniker": "Delegate\\Program.cs",
+              "ToolTip": "C:\\Users\\solomon.sefiw\\Desktop\\Git\\Portal\\TrainingAdvC-\\Delegate\\Delegate\\Program.cs*",
+              "RelativeToolTip": "Delegate\\Program.cs*",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwB4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T08:47:04.648Z",
+              "EditorCaption": ""
             }
           ]
         }
