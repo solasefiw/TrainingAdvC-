@@ -1,0 +1,14 @@
+D:\Projects\TrainingAdvC#\Delegate\Delegate\bin\Debug\net8.0\Delegate.exe
+D:\Projects\TrainingAdvC#\Delegate\Delegate\bin\Debug\net8.0\Delegate.deps.json
+D:\Projects\TrainingAdvC#\Delegate\Delegate\bin\Debug\net8.0\Delegate.runtimeconfig.json
+D:\Projects\TrainingAdvC#\Delegate\Delegate\bin\Debug\net8.0\Delegate.dll
+D:\Projects\TrainingAdvC#\Delegate\Delegate\bin\Debug\net8.0\Delegate.pdb
+D:\Projects\TrainingAdvC#\Delegate\Delegate\obj\Debug\net8.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\TrainingAdvC#\Delegate\Delegate\obj\Debug\net8.0\Delegate.AssemblyInfoInputs.cache
+D:\Projects\TrainingAdvC#\Delegate\Delegate\obj\Debug\net8.0\Delegate.AssemblyInfo.cs
+D:\Projects\TrainingAdvC#\Delegate\Delegate\obj\Debug\net8.0\Delegate.csproj.CoreCompileInputs.cache
+D:\Projects\TrainingAdvC#\Delegate\Delegate\obj\Debug\net8.0\Delegate.dll
+D:\Projects\TrainingAdvC#\Delegate\Delegate\obj\Debug\net8.0\refint\Delegate.dll
+D:\Projects\TrainingAdvC#\Delegate\Delegate\obj\Debug\net8.0\Delegate.pdb
+D:\Projects\TrainingAdvC#\Delegate\Delegate\obj\Debug\net8.0\Delegate.genruntimeconfig.cache
+D:\Projects\TrainingAdvC#\Delegate\Delegate\obj\Debug\net8.0\ref\Delegate.dll

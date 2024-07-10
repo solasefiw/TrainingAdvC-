@@ -1,0 +1,24 @@
+﻿<Page
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:AsyncUI"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:Custom="using:DevExpress.UI.Xaml.Layout"
+    x:Class="AsyncUI.MainPage"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Margin="10,0,0,10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Button Content="Count Operation" Grid.ColumnSpan="2" Margin="198,207,0,0" VerticalAlignment="Top" Height="137" Width="552" FontSize="60" Click="Button_Click"/>
+        <Button Content="API Operation" Grid.ColumnSpan="2" Margin="198,475,0,0" Height="137" Width="552" FontSize="60" VerticalAlignment="Top" Click="Button_Click_1"/>
+        <ListView x:Name="lstview" FontSize="100" Grid.ColumnSpan="2" Margin="798,0,10,0" Background="#FFC8BC2E" />
+        <Button Content="Advanced C# Window APP" Grid.ColumnSpan="2" Margin="0,10,0,0" VerticalAlignment="Top" Height="137" Width="798" FontSize="60" Background="#3310C73D"/>
+
+
+    </Grid>
+</Page>

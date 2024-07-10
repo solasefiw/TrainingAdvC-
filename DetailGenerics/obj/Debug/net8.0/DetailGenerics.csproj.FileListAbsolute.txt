@@ -1,0 +1,14 @@
+D:\Projects\TrainingAdvC#\DetailGenerics\obj\Debug\net8.0\DetailGenerics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\TrainingAdvC#\DetailGenerics\obj\Debug\net8.0\DetailGenerics.AssemblyInfoInputs.cache
+D:\Projects\TrainingAdvC#\DetailGenerics\obj\Debug\net8.0\DetailGenerics.AssemblyInfo.cs
+D:\Projects\TrainingAdvC#\DetailGenerics\obj\Debug\net8.0\DetailGenerics.csproj.CoreCompileInputs.cache
+D:\Projects\TrainingAdvC#\DetailGenerics\bin\Debug\net8.0\DetailGenerics.exe
+D:\Projects\TrainingAdvC#\DetailGenerics\bin\Debug\net8.0\DetailGenerics.deps.json
+D:\Projects\TrainingAdvC#\DetailGenerics\bin\Debug\net8.0\DetailGenerics.runtimeconfig.json
+D:\Projects\TrainingAdvC#\DetailGenerics\bin\Debug\net8.0\DetailGenerics.dll
+D:\Projects\TrainingAdvC#\DetailGenerics\bin\Debug\net8.0\DetailGenerics.pdb
+D:\Projects\TrainingAdvC#\DetailGenerics\obj\Debug\net8.0\DetailGenerics.dll
+D:\Projects\TrainingAdvC#\DetailGenerics\obj\Debug\net8.0\refint\DetailGenerics.dll
+D:\Projects\TrainingAdvC#\DetailGenerics\obj\Debug\net8.0\DetailGenerics.pdb
+D:\Projects\TrainingAdvC#\DetailGenerics\obj\Debug\net8.0\DetailGenerics.genruntimeconfig.cache
+D:\Projects\TrainingAdvC#\DetailGenerics\obj\Debug\net8.0\ref\DetailGenerics.dll

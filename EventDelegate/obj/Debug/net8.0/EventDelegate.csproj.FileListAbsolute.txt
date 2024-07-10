@@ -1,0 +1,14 @@
+D:\Projects\TrainingAdvC#\EventDelegate\bin\Debug\net8.0\EventDelegate.exe
+D:\Projects\TrainingAdvC#\EventDelegate\bin\Debug\net8.0\EventDelegate.deps.json
+D:\Projects\TrainingAdvC#\EventDelegate\bin\Debug\net8.0\EventDelegate.runtimeconfig.json
+D:\Projects\TrainingAdvC#\EventDelegate\bin\Debug\net8.0\EventDelegate.dll
+D:\Projects\TrainingAdvC#\EventDelegate\bin\Debug\net8.0\EventDelegate.pdb
+D:\Projects\TrainingAdvC#\EventDelegate\obj\Debug\net8.0\EventDelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\TrainingAdvC#\EventDelegate\obj\Debug\net8.0\EventDelegate.AssemblyInfoInputs.cache
+D:\Projects\TrainingAdvC#\EventDelegate\obj\Debug\net8.0\EventDelegate.AssemblyInfo.cs
+D:\Projects\TrainingAdvC#\EventDelegate\obj\Debug\net8.0\EventDelegate.csproj.CoreCompileInputs.cache
+D:\Projects\TrainingAdvC#\EventDelegate\obj\Debug\net8.0\EventDelegate.dll
+D:\Projects\TrainingAdvC#\EventDelegate\obj\Debug\net8.0\refint\EventDelegate.dll
+D:\Projects\TrainingAdvC#\EventDelegate\obj\Debug\net8.0\EventDelegate.pdb
+D:\Projects\TrainingAdvC#\EventDelegate\obj\Debug\net8.0\EventDelegate.genruntimeconfig.cache
+D:\Projects\TrainingAdvC#\EventDelegate\obj\Debug\net8.0\ref\EventDelegate.dll

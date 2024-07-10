@@ -1,0 +1,1 @@
+D:\Projects\TrainingAdvC#\Delegate\AsyncUI\AsyncUI.csproj;x64

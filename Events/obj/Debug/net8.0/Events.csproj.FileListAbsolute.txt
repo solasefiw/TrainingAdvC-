@@ -1,0 +1,14 @@
+D:\Projects\TrainingAdvC#\Events\bin\Debug\net8.0\Events.exe
+D:\Projects\TrainingAdvC#\Events\bin\Debug\net8.0\Events.deps.json
+D:\Projects\TrainingAdvC#\Events\bin\Debug\net8.0\Events.runtimeconfig.json
+D:\Projects\TrainingAdvC#\Events\bin\Debug\net8.0\Events.dll
+D:\Projects\TrainingAdvC#\Events\bin\Debug\net8.0\Events.pdb
+D:\Projects\TrainingAdvC#\Events\obj\Debug\net8.0\Events.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\TrainingAdvC#\Events\obj\Debug\net8.0\Events.AssemblyInfoInputs.cache
+D:\Projects\TrainingAdvC#\Events\obj\Debug\net8.0\Events.AssemblyInfo.cs
+D:\Projects\TrainingAdvC#\Events\obj\Debug\net8.0\Events.csproj.CoreCompileInputs.cache
+D:\Projects\TrainingAdvC#\Events\obj\Debug\net8.0\Events.dll
+D:\Projects\TrainingAdvC#\Events\obj\Debug\net8.0\refint\Events.dll
+D:\Projects\TrainingAdvC#\Events\obj\Debug\net8.0\Events.pdb
+D:\Projects\TrainingAdvC#\Events\obj\Debug\net8.0\Events.genruntimeconfig.cache
+D:\Projects\TrainingAdvC#\Events\obj\Debug\net8.0\ref\Events.dll
